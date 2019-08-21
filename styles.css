@@ -1,0 +1,71 @@
+body {
+	background-image: url("images/backgroundimage.jpg");
+	background-size: cover;
+}
+
+#div1 {
+	background-color: rgba(170,57,57,0.95);
+	border: 5px solid blue;
+	margin: 70px;
+	padding-left: 75px;
+	padding-right: 50px;
+	padding-top: 25px;
+	padding-bottom: 50px;
+}
+
+.basicinfo {
+	background-color: rgba(39,108,108,1);
+	margin: 60px;
+	padding: 50px;
+	font-family: 'Livvic', sans-serif;
+	font-size: 120%
+}
+
+.basicheaders {
+	color: rgba(255,255,255,1);
+	font-weight: bold;
+	font-family: 'Lexend Deca', sans-serif;
+	margin: 60px;
+	text-decoration: underline;
+}
+
+table#t01 {
+	margin: 60px;
+	padding: 20px;
+	background-color: rgba(180,65,65,1);
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 50%
+}
+
+tr,th,td {
+	padding: 10px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-size: 120%;
+	font-family: 'Lexend Deca', sans-serif;
+	text-align: center
+}
+
+.listinfo {
+	background-color: rgba(145,52,105,1);
+	margin: 60px;
+	padding: 20px;
+	font-family: 'Livvic', sans-serif;
+	font-size: 120%
+}
+
+#div2 {
+	padding: 60px;
+	font-family: 'Livvic', sans-serif;
+	font-size: 120%	
+}
+
+.collegeinfo {
+	background-color: rgba(134,168,61,0.95);
+	margin: 60px;
+	padding: 20px;
+	font-family: 'Livvic',sans-serif;
+	font-size: 120%
+}
+
